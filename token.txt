@@ -28,6 +28,9 @@ public class token_ring
             int receiver = input.nextInt();
             System.out.println("===============");
             System.out.print("**Enter Data to process : ");
+//input.nextLine();
+//String data = input.nextLine();
+
             int data = input.nextInt();
             System.out.println(" ");
             System.out.println("----------------------------------------------------------");
